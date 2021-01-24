@@ -20,7 +20,7 @@
     // Override point for customization after application launch.
     
     // 向微信终端注册ID wxd930ea5d5a258f4f
-    [WXApi registerApp:@"wx0a05bfac0f385800"];
+    [WXApi registerApp:@"wxd930ea5d5a258f4f"];
     return YES;
 }
 
